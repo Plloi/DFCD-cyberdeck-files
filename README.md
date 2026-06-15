@@ -10,6 +10,7 @@ Sponsorships help me keep the project files free to download, spend more time im
 <img width="370" height="136" alt="last ned (2)" src="https://github.com/user-attachments/assets/ca524a51-96ed-4570-9f5c-af5b1446ea0d" />
 
 Most of the parts can be made with a 3D printer, but not everyone has access to a printer. PCBWay provides manufacturing services such as PCB fabrication, PCB assembly, CNC machining, and 3D printing, so they can be an option if you want to have parts manufactured from the project files instead of making everything yourself.
+Get your quote here: https://www.pcbway.com/
 
 
 **How is the modules powered?**

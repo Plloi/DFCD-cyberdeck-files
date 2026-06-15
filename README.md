@@ -5,8 +5,8 @@ This is the DesignatedFreeCadDevice, a moduar cyberdeck primarily designed to ru
 It runs freecad of course :) i developed it mostly to be able to open and modify CAD files while in the workshop, but i also use it to browse the web, opening PDF's and genral computing. It has a keyboard hidden under the sliding screen, as i rarley use a keyboard, but i did want to have a full depth mechanical keyboard whenever i actually use one. The machine is modular so that one can build modules that fits your personal needs. I hope people migth feel inspired to make their own expansion-modules.
 ![DSCF1786](https://github.com/user-attachments/assets/df5e4cd6-41c9-4f8a-bc78-de39ea63718a)
 This project is supported by PCBWay.
+Sponsorships help me keep the project files free to download, spend more time improving the CAD design, and document my builds.
 
-Sponsorships help me keep the project files free to download, spend more time improving the CAD design, and document the build so others can modify it for their own needs.
 <img width="370" height="136" alt="last ned (2)" src="https://github.com/user-attachments/assets/ca524a51-96ed-4570-9f5c-af5b1446ea0d" />
 
 Most of the parts can be made with a 3D printer, but not everyone has access to a printer. PCBWay provides manufacturing services such as PCB fabrication, PCB assembly, CNC machining, and 3D printing, so they can be an option if you want to have parts manufactured from the project files instead of making everything yourself.
@@ -31,6 +31,16 @@ On the forward facing modules you find mounting points for a shoulder strap. On 
 **What is the current status on this project?**
 Screen is working, keyboad types and trackball rolls. What i have not done yet is to wire up the scrolling handle and connection module on the left. The trackball electronics is currently 
 harvested from a logiteck trackball marble, meaning you need to source one to build one of these, wich is not optimal. so i want to build my own trackball electronics in the future.
-
 **Build instructions**
-Visit the wiki for instructions on how to print, asssemble and connect the DesignatedFreeCadDevice! See this video for how to assemble: https://www.youtube.com/watch?v=gIWp_F9PPzI
+Build instructions are available in the wiki.
+You can also watch the assembly video here:
+https://www.youtube.com/watch?v=gIWp_F9PPzI
+Building your own version
+The DFCD is meant to be modified.
+You can build it as-is, change the modules, redesign the rails, replace the electronics, or use only parts of the system in your own project. If you design a new module or build your own version, I would love to see it.
+
+**Notes**
+
+This project is actively evolving. Files may change between versions, and some parts may not yet have complete documentation.
+
+If you find issues, have improvements, or build something based on the files, feel free to open an issue or share your version.
